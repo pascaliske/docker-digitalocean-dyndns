@@ -1,5 +1,5 @@
 # final image
-FROM --platform=${BUILDPLATFORM} pascaliske/alpine-curl-jq:latest
+FROM pascaliske/alpine-curl-jq:latest
 LABEL maintainer="info@pascaliske.dev"
 
 # copy file
