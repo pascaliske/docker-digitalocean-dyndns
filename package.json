@@ -1,0 +1,26 @@
+{
+  "name": "docker-digitalocean-dyndns",
+  "description": "",
+  "license": "MIT",
+  "author": {
+    "name": "Pascal Iske",
+    "email": "info@pascaliske.dev",
+    "url": "https://pascaliske.dev"
+  },
+  "repository": {
+    "url": "https://github.com/pascaliske/docker-digitalocean-dyndns.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/pascaliske/docker-digitalocean-dyndns/issues"
+  },
+  "private": true,
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^15.0.0",
+    "@commitlint/config-conventional": "^15.0.0",
+    "husky": "^7.0.2"
+  }
+}
