@@ -38,6 +38,7 @@ You can configure the container with the following additional environment variab
 | `IP_SERVICE` |    No    | `ifconfig.co` | The IP service to retrieve your public IP address |
 | `DOMAIN`     |   Yes    | -             | Your domain within the DigitalOcean control panel |
 | `NAME`       |   Yes    | -             | Your subdomain record to update                   |
+| `DO_TOKEN`   |   Yes    | -             | Your DigitalOcean API token                       |
 
 ## License
 
