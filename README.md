@@ -1,4 +1,4 @@
-# `pascaliske/docker-digitalocean-dyndns`
+# [`pascaliske/docker-digitalocean-dyndns`](https://pascaliske.github.io/docker-digitalocean-dyndns/)
 
 > Simple container image to update a dynamic DNS record using the DigitalOcean API.
 
