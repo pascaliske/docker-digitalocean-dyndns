@@ -108,7 +108,7 @@ jobs:
       - name: Output image digest
         run: |
           echo ${{ steps.build.outputs.digest }}
-   scan:
+  scan:
     name: Scan
     runs-on: ubuntu-latest
     steps:
